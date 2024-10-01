@@ -1,3 +1,9 @@
+.idea/
+out/
+.gradle/
+build/
+.DS_STORE
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
